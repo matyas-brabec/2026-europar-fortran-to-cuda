@@ -1,0 +1,8 @@
+**/__pycache__/**
+**/bin
+*.mod
+*.o
+*.out
+/venv
+/out
+**/pure_fortran_app
